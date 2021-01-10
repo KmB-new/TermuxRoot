@@ -1,9 +1,9 @@
 <img src="https://github.com/bluezec/BlueZec/blob/main/KaPJ.gif" width=70% height=auto>
 
 <h1 align="center">M RIVALDI</h1>
-<b>---Pergi Sebagai Pahlawan---</b>
+<h3 align="center">Pergi Sebagai Pahlawan </h3>
 
-<b>---Pulang Sebagai Tahanan---</b>
+<h3 align="center">Pulang Sebagai Tahanan </h3>
 
 
 
