@@ -1,8 +1,12 @@
-<h1 align="center">PROFILE</h1> 
+<h1 align="center">M RIVALDI</h1> 
 <img src="https://github.com/bluezec/BlueZec/blob/main/KaPJ.gif" width=70% height=auto>
 
-<h1 align="center">M RIVALDI</h1>
-thereal.mrivaldi@gmail.com
+<h1 align="center">INTRO</h1>
+<a Welcome To Github Me /a>
+
+<a Pergi sebagai Pahlawan /a>
+
+<a Pulang sebagai Tahanan /a>
 
 <h2 align="center">CONTACT WITH ME:</h2>
 <h2 align="center"href="https://wa.me/6285213021932" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@1.9.11/icons/whatsapp.svg" alt="M RIVALDI" height="30" width="50" /h2>
