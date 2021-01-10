@@ -1,4 +1,4 @@
-<img src="https://github.com/bluezec/BlueZec/blob/main/KaPJ.gif" width=100% height=auto>
+<img src="https://github.com/bluezec/BlueZec/blob/main/KaPJ.gif" width=70% height=auto>
 
 <h1 align="center">M RIVALDI</h1>
 <b>You're on the main page of my Github repository, so welcome!</b>
@@ -7,7 +7,7 @@
 <p>
 <a href="https://twitter.com/karjok_pangesty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="karjok_pangesty" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10743061/karjok-pangesty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="karjok" height="30" width="40" /></a>
-<a href="https://fb.com/om.karjok" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="om.karjok" height="30" width="40" /></a>
+<a href="https://fb.com/thereal.bluezec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="om.karjok" height="30" width="40" /></a>
 <a href="https://instagram.com/karjok.pangesty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="karjok.pangesty" height="30" width="40" /></a>
 <a href="https://medium.com/@karjok.pangesty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="karjok-pangesty" height="30" width="40" /></a>
 </p>
