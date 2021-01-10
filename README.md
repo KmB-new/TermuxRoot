@@ -5,6 +5,7 @@
 
 <h3 align="center">Pulang Sebagai Tahanan </h3>
 
+<img src="https://github.com/bluezec/Picture/blob/main/20210110_220611.png" width=70% height=auto>
 
 
 <h2 align="center">CONTACT WITH ME:</h2>
