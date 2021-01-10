@@ -8,8 +8,8 @@
 
 <h3>Connect with me:</h3>
 <p>
-align="center" href="https://wa.me/6285213021932" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@1.9.11/icons/whatsapp.svg" alt="M RIVALDI" height="30" width="50" /></a>
-align="center" href="align="center"https://fb.com/thereal.bluezec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Blue-Zec" height="30" width="50" /></a>
+<b align="center" href="https://wa.me/6285213021932" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@1.9.11/icons/whatsapp.svg" alt="M RIVALDI" height="30" width="50" /></b>
+<b align="center" href="align="center"https://fb.com/thereal.bluezec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Blue-Zec" height="30" width="50" /></b>
 </p>
 
 <h3>Languages and Tools:</h3>
