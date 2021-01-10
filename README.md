@@ -1,6 +1,6 @@
-<img src="https://github.com/karjok/karjok/blob/main/IMG_20201024_165011.jpg" width=100% height=auto>
+<img src="https://github.com/bluezec/BlueZec/blob/main/KaPJ.gif" width=100% height=auto>
 
-<h1 align="center">Karjok Pangesty</h1>
+<h1 align="center">M RIVALDI</h1>
 <b>You're on the main page of my Github repository, so welcome!</b>
 
 <h3>Connect with me:</h3>
@@ -10,7 +10,6 @@
 <a href="https://fb.com/om.karjok" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="om.karjok" height="30" width="40" /></a>
 <a href="https://instagram.com/karjok.pangesty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="karjok.pangesty" height="30" width="40" /></a>
 <a href="https://medium.com/@karjok.pangesty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="karjok-pangesty" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/karjok pangesty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="karjok pangesty" height="30" width="40" /></a>
 </p>
 
 <h3>Languages and Tools:</h3>
@@ -27,4 +26,3 @@
 <p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=karjok&show_icons=true&locale=en&layout=compact&theme=radical" alt="karjok" /></p>
 
 <p>&nbsp;<img align="center" width=100% src="https://github-readme-stats.vercel.app/api?username=karjok&show_icons=true&locale=en&theme=radical" alt="karjok" /></p>
-
