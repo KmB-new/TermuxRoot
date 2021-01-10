@@ -4,9 +4,8 @@
 <h1 align="center">INTRO</h1>
 <b>Welcome To Github Me</a>
 
-<b>Pergi sebagai Pahlawan</a>
-
-<b>Pulang sebagai Tahanan</a>
+<h3 align="center">Pergi sebagai Pahlawan</h3>
+<h3 align="center">Pulang sebagai Tahanan</h3>
 
 <h2 align="center">CONTACT WITH ME:</h2>
 <h2 align="center"href="https://wa.me/6285213021932" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@1.9.11/icons/whatsapp.svg" alt="M RIVALDI" height="30" width="50" /h2>
