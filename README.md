@@ -1,3 +1,4 @@
+<h1 align="center">PROFILE</h1> 
 <img src="https://github.com/bluezec/BlueZec/blob/main/KaPJ.gif" width=70% height=auto>
 
 <h1 align="center">M RIVALDI</h1>
