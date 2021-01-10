@@ -7,7 +7,7 @@
 
 <h3>Connect with me:</h3>
 <p>
-<a href="https://wa.me/6285213021932" target="blank"><img align="center" src="https://www.google.com/search?q=gambar+wa+png&tbm=isch&ved=2ahUKEwjBqsmYxZHuAhVDNrcAHeOkD4cQ2-cCegQIABAC&oq=gambar+wa+png&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQAzoECAAQQzoFCAAQsQM6AggAUJQHWPAwYOo1aABwAHgAgAHhAYgBvwaSAQUwLjQuMZgBAKABAcABAQ&sclient=mobile-gws-wiz-img&ei=YAr7X8H6C8Ps3LUP48m-uAg&bih=630&biw=400&client=ms-android-xiaomi&prmd=inv&safe=strict#imgrc=Ye2zVQuIXNGE4M" alt="karjok_pangesty" height="30" width="40" /></a>
+<a href="https://wa.me/6285213021932" target="blank"><img align="center" src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/whatsapp-logo" alt="karjok_pangesty" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10743061/karjok-pangesty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="karjok" height="30" width="40" /></a>
 <a href="https://fb.com/thereal.bluezec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="om.karjok" height="30" width="40" /></a>
 <a href="https://instagram.com/karjok.pangesty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="karjok.pangesty" height="30" width="40" /></a>
