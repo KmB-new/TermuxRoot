@@ -1,12 +1,16 @@
-<h1 align="center">M RIVALDI</h1> 
+<h1 align="center">BlueZec</h1> 
 <img src="https://github.com/bluezec/BlueZec/blob/main/KaPJ.gif" width=70% height=auto>
 
-<h1 align="center">INTRO</h1>
+<h2 align="center">QUOTE</h2>
 <h3 align="center">Pergi sebagai Pahlawan</h3>
 <h3 align="center">Pulang sebagai Tahanan</h3>
 
 
-<h2 align="center">CONTACT WITH ME:</h2>
-<h2 align="center"href="https://wa.me/6285213021932" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@1.9.11/icons/whatsapp.svg" alt="M RIVALDI" height="30" width="50" /h2>
-<b align="centerhttps://fb.com/Bluezec11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Blue-Zec" height="30" width="50" /b>
-</p>
+<h2 align="center">CONTACT ME</h2>
+
+
+[![Github](https://img.shields.io/badge/Github-Ikuti-green?style=for-the-badge&logo=github)](https://github.com/bluezec)
+[![Facebook](https://img.shields.io/badge/Facebook-Ikuti-green?style=for-the-badge&logo=facebook)](https://m.facebook.com/Bluezec11)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-Hubungi-brightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=%2B6285213021932&text&app_absent=0)
+
+<h2 align="center">THANKS FOR YOU</h2>
